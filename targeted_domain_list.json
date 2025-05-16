@@ -1,7 +1,6 @@
 {
   "domains": [
  "google.com",
- "facebook.com",
-    "." 
+ "facebook.com"
   ]
 }
