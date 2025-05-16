@@ -1,8 +1,6 @@
 {
   "domains": [
     "google.com",
-    "gmail.com",
-    "yahoo.com",
-    "youtube.com"
+    "."
   ]
 }
