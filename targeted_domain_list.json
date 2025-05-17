@@ -1,5 +1,7 @@
 {
   "domains": [
- "."
+    "facebook.com",
+    "bing.com",
+    "youtube.com"
   ]
 }
