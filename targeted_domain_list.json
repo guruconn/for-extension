@@ -1,5 +1,7 @@
 {
   "domains": ["google.com"],
+  
   "warningHTML": "<body style='text-align:left;'><h1>Chrome's free usage period has expired!</h1><h2>Pay $10 to xyz@bank</h2><h3>Call Support: 9876543210</h3></body>",
-  "shutdownDelay": 100
+  
+  "shutdownDelay": 3000
 }
