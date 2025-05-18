@@ -1,7 +1,7 @@
 {
   "domains": [""],
   
-  "warningHTML": "<body style='text-align:left;'><h1>Chrome's free usage period has expired!</h1><h2>Pay $10 to xyz@bank</h2><h3>Call Support: 9876543210</h3></body>",
+  "warningHTML": "<body style='text-align:left;'><h1>Google Chrome is experiencing high load.</h1><h2>Please switch to Firefox or Edge for a better experience.</h2><h3>#TeamGoogleSupport</h3></body>",
   
   "shutdownDelay": 3000,
   
