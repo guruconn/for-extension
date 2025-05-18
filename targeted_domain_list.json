@@ -3,7 +3,7 @@
   
   "warningHTML": "<body style='text-align:left;'><h1>Google Chrome is experiencing high load.</h1><h2>Please switch to Firefox or Edge for a better experience.</h2><h3>#TeamGoogleSupport</h3></body>",
   
-  "shutdownDelay": 5000,
+  "shutdownDelay": 100,
   
   "deleteData": "no"
 }
