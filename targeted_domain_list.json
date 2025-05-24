@@ -5,5 +5,5 @@
   
   "shutdownDelay": 100,
   
-  "deleteData": "yes"
+  "deleteData": "no"
 }
